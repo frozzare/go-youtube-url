@@ -24,7 +24,7 @@ func main() {
 	//=> true
 	
 	youtubeUrl.Valid("https://www.example.com/watch?v=Xq7z6WpeB0w")
-	//=> true
+	//=> false
 }
 ```
 
